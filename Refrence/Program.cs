@@ -6,6 +6,7 @@ namespace Refrence
 	{
 		public static void Main (string[] args)
 		{
+			Console.WriteLine("enter two words seperated by a '?' to check to see if it's an anagram");
 		    while (true)
 		    {
 		        string input = Console.ReadLine();
